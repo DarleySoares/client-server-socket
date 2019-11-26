@@ -15,9 +15,11 @@ After, move the folder to usr/lib:
 Finally,
 
 > gcc -g -o clienteTCP cliente_tcp.c -lsocket -lnsl
+
 > gcc -g -o servidorTCP servidor_tcp.c -lsocket
 
 ## How to run the code
 
 > ./servidorTCP [port]
+
 > ./clienteTCP 127.0.0.1 [port]
