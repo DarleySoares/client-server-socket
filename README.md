@@ -1,6 +1,6 @@
 # Client-server with socket
 
-The project establishes a socket server that waiting for a message from the client. When one message is arrived from the client, the server changes that message switching lowercase to uppercase, and vice versa, the server also changes the order of sentence 
+The project establishes a socket server that waiting for a message from the client. When one message is arrived from the client, the server changes that message switching lowercase to uppercase, and vice versa, the server also changes the order of sentence.
 
 ## How to compile
 
