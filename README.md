@@ -1,10 +1,10 @@
 # Client-server with socket
 
-The project establishes a socket server that waiting for a message from the client. When one message arrives of the client, the server change upper letters for lower letters and vice versa, as well as the order of the sentence.
+The project establishes a socket server that waiting for a message from the client. When one message is arrived from the client, the server changes that message switching lowercase to uppercase, and vice versa, the server also changes the order of sentence 
 
 ## How to compile
 
-It's necessary use the happycoders package for this:
+Install happycoders package:
 
 > sudo apt-get install happycoders-libsocket-dev
 
